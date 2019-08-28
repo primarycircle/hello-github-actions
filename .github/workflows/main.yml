@@ -1,0 +1,2 @@
+name: A workflow for my Hello file
+on: push
